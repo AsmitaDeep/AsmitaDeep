@@ -1,8 +1,5 @@
-<p align="right" width="100%">
-    ## Asmita Deep   
-</p>
-
 # Asmita Deep
+## GIS Specialist
 
 
 <!--
