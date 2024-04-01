@@ -1,6 +1,5 @@
 <p align="right" width="100%">
-    # Asmita Deep
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+    ## Asmita Deep   
 </p>
 
 # Asmita Deep
